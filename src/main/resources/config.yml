@@ -1,0 +1,4 @@
+scan-radius: 32
+scan-interval-ticks: 6000
+dynamic-scan-interval: true
+use-chunk-snapshots: true
